@@ -212,6 +212,8 @@ detection task where the number of delayed
 flights is substantially lower compared to
 non-delayed ones.
 
+![Image6](https://github.com/shivam-chavan-05/Flight-Delay-Prediction/assets/144063863/ae18c783-0605-4aa3-b237-e665210b765b)
+
 As anticipated, Adaboost exhibited strong
 performance, achieving an accuracy of
 approximately 87.8% and an F1-score of
@@ -234,6 +236,8 @@ trees to the residuals of the preceding
 trees, thereby capturing intricate patterns
 and relationships present in the data.
 
+![Image7](https://github.com/shivam-chavan-05/Flight-Delay-Prediction/assets/144063863/0333a2e3-f167-4c44-8c7a-b817940c3a87)
+
 It achieves an accuracy of approximately 90.4%
 & an F1-score of around 85.2% on the training
 set, and maintaining its excellence with an
@@ -245,6 +249,8 @@ It improves standard gradient boosting by
 adding various new features and improvements,
 making it extremely efficient and effective for
 both regression and classification problems.
+
+![Image8](https://github.com/shivam-chavan-05/Flight-Delay-Prediction/assets/144063863/ccb2989c-7f23-491f-a7bf-81c9ca0dcb25)
 
 ### Challenges
 Processing large datasets takes a significant

@@ -40,6 +40,8 @@ Target Variable: Flight Status
 Data Types: (Before data pre-processing)
 datetime64, object, float64 & int64
 
+![Image1](https://github.com/shivam-chavan-05/Flight-Delay-Prediction/assets/144063863/64a2bfbf-d324-4a67-9b4c-1af10bb23b3b)
+
 ### Data Preprocessing Steps
 #### Eliminating Duplicates
 Duplicate data is deleted as it could
@@ -96,6 +98,8 @@ classes 0 and 1.
 
 ### Correlation Matrix
 
+![Image2](https://github.com/shivam-chavan-05/Flight-Delay-Prediction/assets/144063863/1e550a6b-07a8-4058-9597-830d3a46aed2)
+
 ● The graphic depicts a heatmap of the
 correlation coefficients between numeric
 variables in the dataset.
@@ -126,6 +130,10 @@ Airlines has the highest total delayed
 minutes, indicating a significant overall
 impact of delays on their operations.
 
+![Image3](https://github.com/shivam-chavan-05/Flight-Delay-Prediction/assets/144063863/e75729bf-e1d7-4e24-b6a6-c9ce875f0095)
+
+![Image4](https://github.com/shivam-chavan-05/Flight-Delay-Prediction/assets/144063863/be17b415-a060-49d6-b60f-e36af1c28431)
+
 ● CRS_DEP_TIME: It shows a
 multimodal distribution with distinct
 peaks.
@@ -150,6 +158,8 @@ accuracy, precision, recall, and F1-score. These
 metrics provide information about the decision
 tree's ability to make accurate predictions across
 different categories.
+
+![Image5](https://github.com/shivam-chavan-05/Flight-Delay-Prediction/assets/144063863/e0193d5e-533e-4505-ba57-f6bd1fa8fb2d)
 
 ● The bar chart shows a small decline in
 accuracy from the training set (84.25%) to

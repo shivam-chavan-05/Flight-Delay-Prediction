@@ -15,7 +15,7 @@ can reduce the negative effects of delays while
 also improving the efficiency and dependability
 of air travel.
 
-### Objective
+### Objectives
 The objective is to develop machine learning
 models which will leverage a variety of input
 features such as airline data, airport congestion
